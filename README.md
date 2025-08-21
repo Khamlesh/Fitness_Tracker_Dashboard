@@ -1,4 +1,4 @@
-## 🎯 **Fitness Tracker Dashboard 
+## 🎯   Fitness Tracker Dashboard 
 ### ✨ **Key Features Implemented:**
 
 1. **   Dashboard Overview**
@@ -53,3 +53,4 @@
 - Desktop: Full-featured dashboard with side-by-side layouts
 - Tablet: Optimized for medium screens
 - Mobile: Stacked layouts with touch-friendly interactions
+
